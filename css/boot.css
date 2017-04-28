@@ -1,0 +1,45 @@
+
+h1{color: purple;
+font-style: italic arial;
+}
+
+h2{color: white;
+  font-style: italic arial;
+}
+
+body {
+  color:green;
+  font-style: tahoma;
+  text-align: center;
+}
+p{color:black;
+font-style: comic}
+
+.main1{
+  text-align: center;
+  color: black;
+  font-size: 30px;
+  width: 300px;
+  height: 125px;
+}
+
+.main2{
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  width:300px;
+  height:125px;
+  background-color:#ed3f08;
+}
+.main{
+  float: left;
+}
+.pic1{
+  float: left;
+}
+.pic2{
+  float: left;
+}
+.pic3{
+  float: right;
+}

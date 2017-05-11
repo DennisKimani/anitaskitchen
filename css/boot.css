@@ -1,5 +1,5 @@
 .header{
-  background-image: url("/home/dennis/Desktop/mpft-ip/img/landing.jpg");
+  background-image: url(landing.jpg);
   background-size: cover;
   padding-bottom: 200px
 }
@@ -54,10 +54,11 @@ font-style: comic}
 
 }
 .nyc{
+  background-color: white
   float: left;
 }
-.body1{
-  background-image: url("/home/dennis/Desktop/mpft-ip/img/foodsBg.jpg");
-  background-size: cover;
-  padding-bottom: 200px
+
+
+.row{
+background color: red
 }
